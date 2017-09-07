@@ -1,0 +1,1 @@
+export const TOGGLE_TEXT_COLOR = 'TOGGLE_TEXT_COLOR';
